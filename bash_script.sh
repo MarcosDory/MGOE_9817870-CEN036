@@ -1,3 +1,0 @@
-pwd
-cs ~
-ls -l
