@@ -1,0 +1,11 @@
+drwxrwxr-x. 2 mgoe mgoe 4096 Sep 23 14:13 fastas
+-rw-rw-r--. 1 mgoe mgoe    0 Sep 29 14:26 file.txt
+drwxrwxr-x. 5 mgoe mgoe 4096 Sep 29 14:07 githun_repositorio
+-rwxrwxr-x. 1 mgoe mgoe 8808 Aug 26 02:30 hello-world
+-rw-rw-r--. 1 mgoe mgoe  110 Aug 19 20:06 hello-world.c
+-rw-rw-r--. 1 mgoe mgoe   30 Sep 23 19:09 pb.txt
+drwxrwxr-x. 3 mgoe mgoe 4096 Sep 23 14:15 problemsets
+-rw-rw-r--. 1 mgoe mgoe   89 Aug 19 20:06 readme.first
+-rw-rw-r--. 1 mgoe mgoe   18 Sep  5 16:36 READ.ME.md
+[mgoe@cen0336 ~]$ cd ~/githun_repositorio/prova.1
+
